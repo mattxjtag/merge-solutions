@@ -1,0 +1,31 @@
+# top level directories
+/bin
+/bin64
+/test
+
+# general directories and files
+bin/
+ipch/
+obj/
+packages/
+Debug/
+Release/
+
+# extensions to ignore
+*.aps
+*.chw
+*.csproj.user
+*.ldb
+*.log
+*.lst
+*.metaproj
+*.ncb
+*.opensdf
+*.out
+*.sln.cache
+*.sln.depends
+*.sdf
+*.suo
+*.vcproj.*.user
+*.vcxproj.user
+*.vbw
